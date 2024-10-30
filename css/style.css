@@ -46,7 +46,7 @@ p {
 }
 h2 {
 	font-size:15px;
-	color:#353535!important;
+	color:#fff!important;
 	text-transform:uppercase;
 	font-weight:bold;
 }
@@ -627,14 +627,14 @@ h1.arrow span {
 	text-align:center;
 	line-height:180px;
 	font-size:56px;
-	color:#fff;
+	color:#13274F;
 	border-radius:50%;
 	box-shadow:0 0 0 0 rgba(0,0,0,0.0);
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
 	border: 1px solid #13274F;
-	color: #13274F;
+	color: #fff;
 }
 .services .item:hover .icon {
 	background: #13274F;
