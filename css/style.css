@@ -293,9 +293,9 @@ table {
 }
 .dark-box {
 	background: #F3F5F8;
-	-webkit-box-shadow: 0px 3px 0px 0px #E04343;
-	-moz-box-shadow: 0px 3px 0px 0px #E04343;
-	box-shadow: 0px 3px 0px 0px #E04343;
+	-webkit-box-shadow: 0px 3px 0px 0px #13274F;
+	-moz-box-shadow: 0px 3px 0px 0px #13274F;
+	box-shadow: 0px 3px 0px 0px #13274F;
 	padding:20px 0;
 }
 .dark-box:hover,.dark-box:focus {
@@ -369,7 +369,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(#13274F 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#13274F 40%,#13274F 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#13274F 80%);
 	content:'';
 }
 .menu-button:hover {
@@ -453,7 +453,7 @@ table {
 }
 /* ==========================================================================Hero========================================================================== */
 .hero {
-	background: url('../img/header-bg.jpg') right bottom no-repeat;
+	background: url('../img/head.jpg') right bottom no-repeat;
 	background-size: contain;
 	padding:110px 0 100px 0;
 	height:auto;
@@ -476,7 +476,7 @@ table {
 	margin:0;
 	padding:0;
 	opacity:0.5;
-	color: #E04343;
+	color: #13274F;
 	letter-spacing: 18px;
 	line-height: 50px;
 	text-transform: uppercase;
@@ -568,7 +568,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #E04343;
+    color: #13274F;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -579,7 +579,7 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #E04343;
+	background: #13274F;
 }
 
 .color-bg a {
@@ -633,12 +633,12 @@ h1.arrow span {
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #E04343;
-	color: #E04343;
+	border: 1px solid #13274F;
+	color: #13274F;
 }
 .services .item:hover .icon {
-	background: #E04343;
-	border: 1px solid #E04343;
+	background: #13274F;
+	border: 1px solid #13274F;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
@@ -870,7 +870,7 @@ img.grayscale:hover {
 }
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
-	background-color: #E04343;
+	background-color: #13274F;
 	padding:70px 0;
 }
 .outline-btn {
@@ -919,7 +919,7 @@ ul.social-buttons li:last-child {
 .social-btn {
 	width:40px;
 	height:40px;
-	background: #E04343;
+	background: #13274F;
 	display:inline-block;
 	color:#fff;
 	font-size:17px;
@@ -1007,7 +1007,7 @@ ul.social-buttons li:last-child {
 }
 
 .btn-send{
-	background:#E04343;
+	background:#13274F;
 	color: white;
 	transition: all 0.4s;
 	border-radius: 0;
